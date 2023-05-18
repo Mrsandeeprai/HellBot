@@ -15,8 +15,8 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mrsandeeprai/HellBot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/mrsandeeprai/Hellbot?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
@@ -51,7 +51,7 @@
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://mrsandeeprai/deploy/button.svg)](https://heroku.com/deploy)
+- [![Deploy](https://mrsandeeprai/deploy/button.svg)](https://mrsandeeprai/deploy)
 
 ------
 ## Deploy on Railway
