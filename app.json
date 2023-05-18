@@ -15,7 +15,7 @@
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
-      "value": "ANYTHING"
+      "value": " devil king is back 😈👅"
     },
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
@@ -28,27 +28,27 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "23900203"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "1f85eb729c9bf8a948ed0627d23ecee3"
     },
     "HELLBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": ""
+      "value": "==HEll1BVtsOIIBu3B9sYvPvp3_Cep-1IYqif-ZkD8J4ZYFmfZJI3yFttyLmAGZdeC5urn3ZZsc-q0_AqBXBHAquQn18wttrWjOXIxvzKQlUzN9u_K5tTWaIsfSQ1Of2n7rgcRfI_2IBaDqsjq2UQxmhmFfGsuhX4ZH6juxDPXDPDg51bm--Xg4eJePdUi0kVCZHq7X6o7bN4qOQf3v2rLeBCTsrB7ujfU7ia65ITloEpcWh2asidXljNVUazmqDAs612878P3W2457194gA4oqVTPSRF1yldFYE-R9sBKI_KvCWUjW4H8wvmz3cXyslQj3T0zC2kkzjnW-3FfmGnQNh7B556EkBk9TWe8=Bot=="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
-      "value": ""
+      "value": "c98282a9-80c5-43dd-a0d8-def8b926055c"
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
-      "value": ""
+      "value": "sandeephellking"
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "6038414160:AAHNA1ZDE6-HYgm7tEuwfKburigAwPbKFhM"
     }
   },
   "addons": [{
