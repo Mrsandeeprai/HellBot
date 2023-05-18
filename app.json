@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
+  "repository": "https://github.com/mrsandeeprai/HellBot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -58,7 +58,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/mrsandeeprai/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
