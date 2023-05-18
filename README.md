@@ -51,7 +51,7 @@
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://Mrsandeeprai/deploy/button.svg)](https://Mrsandeeprai/deploy)
+- [![Deploy](https://Mrsandeeprai/deploy/Mrsandeeprai)](https://Mrsandeeprai/deploy)
 
 ------
 ## Deploy on Railway
